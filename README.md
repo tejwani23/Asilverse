@@ -1,2 +1,2 @@
 # Asilverse
-A frontend project
+A single page responsive website for a freelance project using html css and javascript.
